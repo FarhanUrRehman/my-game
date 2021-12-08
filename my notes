@@ -1,0 +1,43 @@
+gameOver() {
+    swal({
+      title: `The Mysterious Treasure`,
+      text: "This is the treasure that no one found 
+            this treasure was burried my some mystical creatures from ancient time 
+            but a curse destroy them all but some how the treasure was saved...
+             but no one ever able to find it
+      ",
+      imageUrl:
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Down_Sign_Emoji_Icon_ios10_grande.png",
+      imageSize: "800x800",
+      confirmButtonText: "press "ENTER" to continue.."
+    });
+  }
+
+  1. change the swal text and edit it in our function in form
+  2. gather the required images
+    . three players
+    . background
+    . obstacles
+
+
+swal({
+      title: `The Mysterious Treasure`,
+      text: "Oh... so you want to continue alright 
+           but a man saved the treasure in the jungle with his magical powers 
+           but exactly where no one knows but..... 
+            a riddle was written on the cave at a jungle
+
+            "I AM THOUSAND YEARS OLD BUT STILL NOT TIRED TO WORK 
+              I AM OLD BUT WORKING AS YOUNG 
+              STILL STANDING ON MY FOOT...
+              TELL ME WHO AM I"
+
+
+        
+      ",
+      imageUrl:
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Down_Sign_Emoji_Icon_ios10_grande.png",
+      imageSize: "800x800",
+      confirmButtonText: "press "ENTER" to start the journey...
+      GOOD LUCK"
+    });
